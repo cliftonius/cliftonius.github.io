@@ -4,7 +4,30 @@ title:  "Markdown sample"
 date:   2016-09-04
 ---
 
-### Markdown test document
+# Hello world.
+### My Favorite Foods
+
+* Jimbos
+* BBQ
+* Smoothies
+
+[Link To Google](http://google.com)
+
+<a href="http://google.com" target="_blank"> Link </a>
+
+# A Puppy!!! It's a PUPPPPY!
+![Adorable Link](https://media.giphy.com/media/12cPXJ36UX5nO0/giphy.gif)
+
+<img src="https://media.giphy.com/media/12cPXJ36UX5nO0/giphy.gif" alt="Adorable Link"/>
+
+[Adorable Link](https://media.giphy.com/media/12cPXJ36UX5nO0/giphy.gif)
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/amtuB-2wGeQ" frameborder="0" allowfullscreen></iframe>
+
+
+### Markdown test documenet
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
 
